@@ -18,3 +18,7 @@ This project will introduce you to the core concepts of Apache Airflow. To compl
 We have provided you with a project template that takes care of all the imports and provides four empty operators that need to be implemented into functional pieces of a data pipeline. The template also contains a set of tasks that need to be linked to achieve a coherent and sensible data flow within the pipeline.
 
 You'll be provided with a helpers class that contains all the SQL transformations. Thus, you won't need to write the ETL yourselves, but you'll need to execute it with your custom operators.
+
+#### DAG tasks diagram:
+
+![DAG](static_files/dag.png)
